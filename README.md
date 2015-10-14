@@ -1,3 +1,5 @@
+![unity.fellowship.growth](https://github.com/sgocisf/digital-assets/blob/master/sgoci.logo/other.formats/sgoci.logo.png)
+
 # digital-assets
 This repo is to store the images, logos, reusable birtday cards, etc. of St Gregoriose Orthodox Church of India.
 
