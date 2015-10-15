@@ -1,3 +1,9 @@
+# Before you order the cards do this.
+Make sure you convert the text to outline. But DON't save it in github. This way you can edit it later.
+1. Just select all the items
+2. Then Type/Convert to Outline.
+3. Save as a new file that you will use to upload.
+
 # How to order new birthday cards.
 
 You need to order the card and the envelope to put the card in. The card when folded will measure 5" by 7". The adobe illustrator images you provide will be for the unfolded card. So it will be 10" by 7". There will be two sides, the outside and the inside. So you will provide two images of 10" by 7" each.
@@ -12,3 +18,4 @@ So we have to submit two images for the card, and one for the envelope. The card
 4. Tell them to call you before printing.
 5. Select "Envelope"
 4. Choose something like "Design your own card. Front color, no back." Feel free to update this instruction if this is not great.
+
