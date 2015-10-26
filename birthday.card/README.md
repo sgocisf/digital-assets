@@ -1,8 +1,9 @@
 # Before you order the cards do this.
 Make sure you convert the text to outline. But DON't save it in github. This way you can edit it later.
+
 1. Just select all the items
-2. Then Type/Convert to Outline.
-3. Save as a new file that you will use to upload.
+1. Then Type/Convert to Outline.
+1. Save as a new file that you will use to upload.
 
 # How to order new birthday cards.
 
@@ -13,9 +14,15 @@ The envelope that accepts the 5x7 card is 5.25" by 7.25".
 So we have to submit two images for the card, and one for the envelope. The card images are called "birthday.card.inside.ai" and "birthday.card.outside.ai". The envelope image is called "birthday.card.envelope.ai"
 
 1. Go to gotprint.net
-2. Select "Tent Card" from the left navigation.
-3. Select your choices.
-4. Tell them to call you before printing.
-5. Select "Envelope"
-4. Choose something like "Design your own card. Front color, no back." Feel free to update this instruction if this is not great.
+1. Select "Tent Card" from the left navigation.
+1. For *Size* pick "**Tent Post Card (10x7 Die-Score to 5x7)**."
+1. For *Paper* pick "**14pt Premium Uncoated Cover**". This is very important. YOU CANNOT WRITE WITH A PEN ON UV COATED PAPER. **So DON'T select UV**.
+1. For *Color* pick "**Color Both Sides**."
+1. For *Quantity* pick "**1000**."
+
+1. Select "Envelope"
+1. Choose "**Upload Your Files**"
+1. For *Size* pick "**A-7 (5.25x7.25) Announcement**."
+1. For *Color* pick "**Color Front, No Back**."
+1. For *Quantity* pick "**1000**."
 
