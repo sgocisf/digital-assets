@@ -2,7 +2,7 @@
 Make sure you convert the text to outline. But DON't save it in github. This way you can edit it later.
 
 1. Just select all the items
-1. Then Type/Convert to Outline.
+1. Then Type/Create Outlines
 1. Save as a new file that you will use to upload.
 
 # How to order new birthday cards.
@@ -20,6 +20,9 @@ So we have to submit two images for the card, and one for the envelope. The card
 1. For *Color* pick "**Color Both Sides**."
 1. For *Quantity* pick "**1000**."
 
+For the Envelope
+
+1. Go to gotprint.net
 1. Select "Envelope"
 1. Choose "**Upload Your Files**"
 1. For *Size* pick "**A-7 (5.25x7.25) Announcement**."
